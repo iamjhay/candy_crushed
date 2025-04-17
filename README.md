@@ -34,9 +34,9 @@ A fun and addictive Candy Crush-style game built with **React Native**! Swipe, m
 
 > Place your screenshots inside `assets/screenshots/`
 <p align="center">
-  <img src="src/assets/screenshots/candy-1.png" width="300" />
-  <img src="src/assets/screenshots/candy-2.png" width="300" />
-  <img src="src/assets/screenshots/candy-3.png" width="300" />
+  <img src="src/assets/screenshots/candy-1.png" width="250" />
+  <img src="src/assets/screenshots/candy-2.png" width="250" />
+  <img src="src/assets/screenshots/candy-3.png" width="250" />
 </p>
 
 ## 🧑‍💻 Getting Started
