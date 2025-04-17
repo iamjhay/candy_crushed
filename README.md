@@ -39,16 +39,20 @@ A fun and addictive Candy Crush-style game built with **React Native**! Swipe, m
   <img src="src/assets/screenshots/candy-3.png" width="300" />
 </p>
 
-
+## 🧑‍💻 Getting Started
 ```bash
-assets/screenshots/home.png
-assets/screenshots/level-select.png
-assets/screenshots/gameplay.png
-To start the Metro dev server, run the following command from the root of your React Native project:
-
-
 git clone https://github.com/yourusername/candy-crush-react-native.git
 cd candy-crush-react-native
 npm install
 npx react-native run-android # or run-ios
+```
+
+## 📱 Try It Out
+Coming soon on Expo or Play Store! 😉
+
+## 🤝 Contributing
+Feel free to fork the project, open issues, or contribute features/fixes.
+
+## 📜 License
+MIT License © 2025 [https://github.com/iamjhay]
 
