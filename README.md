@@ -3,7 +3,7 @@
 A fun and addictive Candy Crush-style game built with **React Native**! Swipe, match candies, beat levels, and challenge yourself with increasing difficulty and high scores.
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="200" />
+  <img src="src/assets/screenshots/candy-splash.png" width="200" />
   <img src="assets/screenshots/level-select.png" width="200" />
   <img src="assets/screenshots/gameplay.png" width="200" />
 </p>
