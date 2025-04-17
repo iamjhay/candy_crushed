@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/LilyScriptOne-Regular.ttf",
+      "sha1": "9b8a677c3a031755c3d123a073169926937e0cef"
+    },
+    {
+      "path": "src/assets/fonts/SedgwickAveDisplay-Regular.ttf",
+      "sha1": "38b59f4c8f422f1b136351d822e3462ebc1726e2"
+    },
+    {
+      "path": "src/assets/fonts/TwinkleStar-Regular.ttf",
+      "sha1": "21ff8c1ab355dc41e15971ea2de09ee826e6cddb"
+    }
+  ]
+}
