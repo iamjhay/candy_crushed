@@ -4,7 +4,7 @@ A fun and addictive Candy Crush-style game built with **React Native**! Swipe, m
 
 <p align="center">
   <img src="src/assets/screenshots/candy-splash.png" height="600" />
-  <img src="src/assets/images/bgcandies.png" height="600" />
+  <img src="src/assets/images/bgcandies.png" height="600" width="350" />
 </p>
 
 ---
